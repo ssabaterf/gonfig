@@ -1,0 +1,7 @@
+server:
+  host: 0.0.0.0
+  timeout:
+    server: 0
+    read: 0
+    write: 50
+    idle: 0
